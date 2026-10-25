@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Downloaded datasets (do not commit raw data)
+prices.csv
+prices-split-adjusted.csv
+fundamentals.csv
+securities.csv
+
+# Generated outputs
+results.csv
+images.zip
+images/
